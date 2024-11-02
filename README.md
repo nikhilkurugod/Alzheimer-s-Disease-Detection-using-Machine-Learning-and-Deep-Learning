@@ -1,6 +1,7 @@
 # Alzheimer's Disease Detection using Machine-Learning and Deep-Learning
 
 ![image](https://github.com/user-attachments/assets/68da73a9-6b20-42db-8b05-943fabae03a5)
+
 The above diagram represents System Overview.
 
 Alzheimer's Disease detection using deep learning models such as DenseNet169 and MobileNetV2
