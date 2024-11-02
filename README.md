@@ -2,7 +2,15 @@
 
 ![image](https://github.com/user-attachments/assets/68da73a9-6b20-42db-8b05-943fabae03a5)
 
-The above diagram represents System Overview.
+# The above diagram represents System Overview.
+
+ Machine learning models use the kaggleDataset1 and kaggleDataset2 datasets for training and it is tested for performance evaluation. Two machine learning models are used, the first ML model uses HOG for feature 
+ selection and then uses SVM classifier for classification. The second model uses K-Nearest Neighbor (KNN) and RF for classification.
+
+# Results for Two ML models tested for two different kaggledatasets
+
+![image](https://github.com/user-attachments/assets/aa028d42-7a3c-4576-9f07-0d25d09b5b54)
+
 
 Alzheimer's Disease detection using deep learning models such as DenseNet169 and MobileNetV2
 
