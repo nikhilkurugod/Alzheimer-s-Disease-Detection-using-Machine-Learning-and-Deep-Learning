@@ -3,11 +3,12 @@ Alzheimer's Disease detection using deep learning models such as DenseNet169 and
 
 Brain MRI contains information about the brains state and behaviour, by using this we can easily detect the severity of Alzheimer's disease (AD). Using deep learning (DL) we can create a model that can classify the brain MRI as per the severity. The dataset used in this project is from OASIS.
 
-#Datasets used in this code have four classes they are :
+# Datasets used in this code have four classes they are :
 Non Demented
 Very Mild Demented
 Mild Demented
 Moderate Demented
+
 ![image](https://github.com/user-attachments/assets/7bcfa828-b2d1-4333-b724-7862fdf672b2)
 
 Brain MRI indicating severity of AD. Top row images from left: a)Mild Demented, b)Moderate demented. Bottom row from left c)Very Mild Demented, d)Non Demented
