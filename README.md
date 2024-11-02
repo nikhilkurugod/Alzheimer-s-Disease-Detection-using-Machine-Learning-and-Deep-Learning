@@ -1,4 +1,8 @@
 # Alzheimer's Disease Detection using Machine-Learning and Deep-Learning
+
+![image](https://github.com/user-attachments/assets/68da73a9-6b20-42db-8b05-943fabae03a5)
+The above diagram represents System Overview.
+
 Alzheimer's Disease detection using deep learning models such as DenseNet169 and MobileNetV2
 
 Brain MRI contains information about the brains state and behaviour, by using this we can easily detect the severity of Alzheimer's disease (AD). Using deep learning (DL) we can create a model that can classify the brain MRI as per the severity. The dataset used in this project is from OASIS.
